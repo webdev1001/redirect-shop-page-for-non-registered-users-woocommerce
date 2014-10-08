@@ -3,7 +3,7 @@
 Plugin Name: Multi Purpose Woocommerce Plugin
 
 Plugin URI: http://codingsuggestion.com/
-Description: Discount manage , redirection of pages for non registerd users , billing address hiding,etc 
+Description: Discount manage , redirection of shop, cart,checkout  pages for non registerd users , billing address hiding for non shipping items ,etc 
 Author: Somdeb Mukherjee
 Author URI: http://codingsuggestion.com/
 Version: 2.0
