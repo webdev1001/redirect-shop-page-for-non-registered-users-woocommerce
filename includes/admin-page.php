@@ -130,7 +130,7 @@ function rsp_options_page() {
 </form>
 
 You can also hire me for $8/hour for all your wordpress and any other php platform based need.
-To hire me kindly sent an eamil to somdeb@live.com or visit http://codingsuggestion.com
+To hire me kindly sent an email to somdeb@live.com or hire me through odesk profile address https://www.odesk.com/users/~01e75f9ffb3d24f671 or elance profile address http://som87.elance.com or visit http://codingsuggestion.com
 
 
          
