@@ -3,7 +3,7 @@ Contributors: Somdeb Mukherjee
 Tags: Woocommece, Redirect shop page, eccomerce
 Requires at least: 3.1
 Tested up to: 4.0
-Stable tag: 4.0
+Stable tag: 2.0
 
 It Redirects Wocommerce shop page,product page , cart Page to my account page for non registered users which is customizable, So that users can't see these pages without register/login.
 It can also hides from product page for non registerd users and redirect to my account page which is customizable
